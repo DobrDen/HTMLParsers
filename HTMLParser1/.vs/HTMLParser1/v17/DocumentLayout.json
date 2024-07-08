@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HTMLParser\\HTMLParser1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDAF462-CC35-4944-AEAE-58F5AF53E1A3}|HTMLParser1\\HTMLParser1.csproj|e:\\htmlparser\\htmlparser1\\htmlparser1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDAF462-CC35-4944-AEAE-58F5AF53E1A3}|HTMLParser1\\HTMLParser1.csproj|solutionrelative:htmlparser1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDAF462-CC35-4944-AEAE-58F5AF53E1A3}|HTMLParser1\\HTMLParser1.csproj|E:\\HTMLParser\\HTMLParser1\\htmlparser1\\tablenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDAF462-CC35-4944-AEAE-58F5AF53E1A3}|HTMLParser1\\HTMLParser1.csproj|solutionrelative:htmlparser1\\tablenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDAF462-CC35-4944-AEAE-58F5AF53E1A3}|HTMLParser1\\HTMLParser1.csproj|E:\\HTMLParser\\HTMLParser1\\htmlparser1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EFDAF462-CC35-4944-AEAE-58F5AF53E1A3}|HTMLParser1\\HTMLParser1.csproj|solutionrelative:htmlparser1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDAF462-CC35-4944-AEAE-58F5AF53E1A3}|HTMLParser1\\HTMLParser1.csproj|E:\\HTMLParser\\HTMLParser1\\htmlparser1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDAF462-CC35-4944-AEAE-58F5AF53E1A3}|HTMLParser1\\HTMLParser1.csproj|solutionrelative:htmlparser1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\HTMLParser\\HTMLParser1\\HTMLParser1\\App.config",
+              "RelativeDocumentMoniker": "HTMLParser1\\App.config",
+              "ToolTip": "E:\\HTMLParser\\HTMLParser1\\HTMLParser1\\App.config",
+              "RelativeToolTip": "HTMLParser1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-04T20:14:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\HTMLParser\\HTMLParser1\\HTMLParser1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HTMLParser1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\HTMLParser\\HTMLParser1\\HTMLParser1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "HTMLParser1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:04:24.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableNode.cs",
+              "DocumentMoniker": "E:\\HTMLParser\\HTMLParser1\\HTMLParser1\\TableNode.cs",
+              "RelativeDocumentMoniker": "HTMLParser1\\TableNode.cs",
+              "ToolTip": "E:\\HTMLParser\\HTMLParser1\\HTMLParser1\\TableNode.cs",
+              "RelativeToolTip": "HTMLParser1\\TableNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:43:34.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HTMLParser\\HTMLParser1\\HTMLParser1\\Program.cs",
+              "RelativeDocumentMoniker": "HTMLParser1\\Program.cs",
+              "ToolTip": "E:\\HTMLParser\\HTMLParser1\\HTMLParser1\\Program.cs",
+              "RelativeToolTip": "HTMLParser1\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAawDkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:26:07.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+2024-07-06 04:53:18,007 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 04:53:23,619 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 04:53:23,633 [1] ERROR HTMLParser2.Program - Ошибка: Коллекция данных пуста, запись в CSV файл невозможна.
+2024-07-06 04:56:08,943 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 04:56:14,839 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 04:57:48,061 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 04:58:52,606 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 04:58:53,885 [1] ERROR HTMLParser2.Program - Ошибка: Ошибка загрузки страницы
+2024-07-06 05:00:15,928 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:00:26,371 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 05:00:54,844 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:02:57,145 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:10:53,632 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:10:59,592 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 05:11:06,479 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:14:31,960 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:14:37,623 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 05:16:11,734 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:16:18,889 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 05:16:50,683 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:17:42,213 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 05:18:47,883 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:18:53,412 [1] ERROR HTMLParser2.Program - Не найден элемент таблицы на странице:  Timed out after 0 seconds
+2024-07-06 05:18:53,412 [1] ERROR HTMLParser2.Program - Ошибка: Не найден элемент таблицы на странице
+2024-07-06 05:19:23,775 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:19:29,617 [1] ERROR HTMLParser2.Program - Не найден элемент таблицы на странице:  Timed out after 0 seconds
+2024-07-06 05:19:29,617 [1] ERROR HTMLParser2.Program - Ошибка: Не найден элемент таблицы на странице
+2024-07-06 05:22:01,197 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:22:07,053 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 05:22:54,555 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:24:01,909 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:24:07,170 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 05:24:07,183 [1] ERROR HTMLParser2.Program - Ошибка: Коллекция данных пуста, запись в CSV файл невозможна.
+2024-07-06 05:24:55,317 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:25:06,848 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 05:29:27,098 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:29:32,484 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 05:29:32,495 [1] ERROR HTMLParser2.Program - Ошибка: Не обнаружены строки в таблице
+2024-07-06 05:32:03,460 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:32:08,780 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 05:32:08,792 [1] ERROR HTMLParser2.Program - Ошибка: Не обнаружены строки в таблице
+2024-07-06 05:32:42,159 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:32:46,865 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 05:32:46,881 [1] ERROR HTMLParser2.Program - Ошибка: Не обнаружены строки в таблице
+2024-07-06 05:42:26,705 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:42:31,873 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 05:42:31,883 [1] ERROR HTMLParser2.Program - Ошибка: Не обнаружены строки в таблице
+2024-07-06 05:43:06,710 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 05:43:11,513 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 06:00:33,977 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:00:38,734 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:00:38,756 [1] ERROR HTMLParser2.Program - Не найден элемент таблицы на странице
+2024-07-06 06:00:38,756 [1] ERROR HTMLParser2.Program - Ошибка: Не найден элемент таблицы на странице
+2024-07-06 06:06:01,511 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:06:05,828 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:06:05,850 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 06:06:34,772 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:06:38,971 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:06:38,993 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 06:07:00,507 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:07:04,729 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:07:49,373 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:07:53,372 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:07:53,394 [1] ERROR HTMLParser2.Program - Ошибка: Timed out after 0 seconds
+2024-07-06 06:14:40,036 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:14:44,331 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:14:44,354 [1] ERROR HTMLParser2.Program - Произошло непредвиденное исключение: WebDriverTimeoutException - Timed out after 0 seconds
+2024-07-06 06:14:44,354 [1] ERROR HTMLParser2.Program - Ошибка: Произошло непредвиденное исключение при ожидании элемента таблицы на странице
+2024-07-06 06:17:59,550 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:18:01,521 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:18:01,544 [1] ERROR HTMLParser2.Program - Произошло непредвиденное исключение: WebDriverTimeoutException - Timed out after 0 seconds
+2024-07-06 06:18:01,544 [1] ERROR HTMLParser2.Program - Ошибка: Произошло непредвиденное исключение при ожидании элемента таблицы на странице
+2024-07-06 06:19:09,639 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:19:14,172 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:19:29,558 [1] ERROR HTMLParser2.Program - Произошло непредвиденное исключение: WebDriverTimeoutException - Timed out after 15 seconds
+2024-07-06 06:19:29,559 [1] ERROR HTMLParser2.Program - Ошибка: Произошло непредвиденное исключение при ожидании элемента таблицы на странице
+2024-07-06 06:20:54,730 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 06:21:00,614 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 06:21:00,636 [1] ERROR HTMLParser2.Program - Ошибка: Не найден элемент таблицы на странице
+2024-07-06 17:00:31,787 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 17:00:53,078 [1] ERROR HTMLParser2.Program - Ошибка загрузки страницы
+2024-07-06 17:02:13,830 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 17:02:35,111 [1] ERROR HTMLParser2.Program - Ошибка загрузки страницы
+2024-07-06 17:31:21,548 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 17:31:25,927 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 17:31:25,971 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 17:31:25,982 [1] ERROR HTMLParser2.Program - Не обнаружены строки в таблице
+2024-07-06 17:31:26,013 [1] INFO  HTMLParser2.Program - Драйвер закрыт
+2024-07-06 17:56:34,579 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 17:56:39,298 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 17:56:39,311 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 17:56:39,326 [1] ERROR HTMLParser2.Program - Произошла ошибка: Не обнаружены строки в таблице
+2024-07-06 17:56:39,354 [1] INFO  HTMLParser2.Program - Драйвер закрыт
+2024-07-06 17:58:24,198 [1] INFO  HTMLParser2.Program - Начало загрузки страницы
+2024-07-06 17:58:29,504 [1] INFO  HTMLParser2.Program - Успешная загрузка страницы
+2024-07-06 17:58:29,517 [1] INFO  HTMLParser2.Program - Парсинг данных страницы
+2024-07-06 17:58:29,531 [1] ERROR HTMLParser2.Program - Произошла ошибка: Не обнаружены строки в таблице
+2024-07-06 17:58:29,561 [1] INFO  HTMLParser2.Program - Драйвер закрыт

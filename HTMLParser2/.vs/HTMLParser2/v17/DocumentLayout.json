@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HTMLParser\\HTMLParser2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E409A84-5951-4DD3-BA5B-64AA0AEAB3AE}|HTMLParser2\\HTMLParser2.csproj|e:\\htmlparser\\htmlparser2\\htmlparser2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E409A84-5951-4DD3-BA5B-64AA0AEAB3AE}|HTMLParser2\\HTMLParser2.csproj|solutionrelative:htmlparser2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E409A84-5951-4DD3-BA5B-64AA0AEAB3AE}|HTMLParser2\\HTMLParser2.csproj|e:\\htmlparser\\htmlparser2\\htmlparser2\\tablenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E409A84-5951-4DD3-BA5B-64AA0AEAB3AE}|HTMLParser2\\HTMLParser2.csproj|solutionrelative:htmlparser2\\tablenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E409A84-5951-4DD3-BA5B-64AA0AEAB3AE}|HTMLParser2\\HTMLParser2.csproj|E:\\HTMLParser\\HTMLParser2\\htmlparser2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E409A84-5951-4DD3-BA5B-64AA0AEAB3AE}|HTMLParser2\\HTMLParser2.csproj|solutionrelative:htmlparser2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableNode.cs",
+              "DocumentMoniker": "E:\\HTMLParser\\HTMLParser2\\HTMLParser2\\TableNode.cs",
+              "RelativeDocumentMoniker": "HTMLParser2\\TableNode.cs",
+              "ToolTip": "E:\\HTMLParser\\HTMLParser2\\HTMLParser2\\TableNode.cs",
+              "RelativeToolTip": "HTMLParser2\\TableNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:28:35.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HTMLParser\\HTMLParser2\\HTMLParser2\\Program.cs",
+              "RelativeDocumentMoniker": "HTMLParser2\\Program.cs",
+              "ToolTip": "E:\\HTMLParser\\HTMLParser2\\HTMLParser2\\Program.cs",
+              "RelativeToolTip": "HTMLParser2\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwFIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:28:29.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\HTMLParser\\HTMLParser2\\HTMLParser2\\App.config",
+              "RelativeDocumentMoniker": "HTMLParser2\\App.config",
+              "ToolTip": "E:\\HTMLParser\\HTMLParser2\\HTMLParser2\\App.config",
+              "RelativeToolTip": "HTMLParser2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-06T01:48:57.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
